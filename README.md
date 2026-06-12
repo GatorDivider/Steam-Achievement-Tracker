@@ -67,9 +67,6 @@ View completion percentages, monitor recently unlocked achievements, analyze sta
 
 ![Main Dashboard](assets/screenshot-1.png)
 
-### Achievement Progress
-
-![Achievement Progress](assets/screenshot-2.png)
 
 ### Statistics Overview
 
