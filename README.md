@@ -159,7 +159,7 @@ Steam-Achievement-Tracker
 Latest Release:
 
 ```text
-Steam-Achievement-Tracker-v1.0.0.zip
+Steam-Achievement-Tracker.zip
 ```
 
 Executable:
